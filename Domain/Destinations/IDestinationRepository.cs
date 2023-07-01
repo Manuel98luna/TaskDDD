@@ -13,4 +13,3 @@ public interface IDestinationRepository
     void Remove(Destination destination);
     void Delete(Destination destination);
 }
-//fin

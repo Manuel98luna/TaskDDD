@@ -1,41 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {}
+    "C:\\laragon\\www\\M2\\TravelExplorers\\Web.API\\Web.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
+    "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\obj\\",
+        "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj"
+              "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,34 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
+    "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\obj\\",
+        "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -166,45 +150,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\obj\\",
+        "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj"
+              "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj"
               },
-              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj"
+              "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Domain\\Domain.csproj"
               }
             }
           }
@@ -240,45 +216,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {
+    "C:\\laragon\\www\\M2\\TravelExplorers\\Web.API\\Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\TravelExplorers\\Web.API\\Web.Api.csproj",
         "projectName": "Web.Api",
-        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
-        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\obj\\",
+        "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Web.API\\Web.Api.csproj",
+        "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Web.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj"
+              "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Application\\Application.csproj"
               },
-              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj"
+              "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\TravelExplorers\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -331,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }

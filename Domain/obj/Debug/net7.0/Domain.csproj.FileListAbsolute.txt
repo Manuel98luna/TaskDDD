@@ -82,3 +82,15 @@ C:\laragon\www\M2\TravelExplorers\Domain\bin\Debug\net7.0\Domain.deps.json
 C:\laragon\www\M2\TravelExplorers\Domain\bin\Debug\net7.0\Domain.dll
 C:\laragon\www\M2\TravelExplorers\Domain\bin\Debug\net7.0\Domain.pdb
 C:\laragon\www\M2\TravelExplorers\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\xampp\htdocs\TaskDDD\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\xampp\htdocs\TaskDDD\Domain\bin\Debug\net7.0\Domain.dll
+C:\xampp\htdocs\TaskDDD\Domain\bin\Debug\net7.0\Domain.pdb
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.dll
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\Domain.pdb
+C:\xampp\htdocs\TaskDDD\Domain\obj\Debug\net7.0\ref\Domain.dll
